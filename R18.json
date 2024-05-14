@@ -34,7 +34,7 @@
       "key": "66资源",
       "name": "66资源",
       "type": 0,
-      "api": "https://91md.me/api.php/provide/vod/?ac=list",
+      "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
