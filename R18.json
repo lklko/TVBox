@@ -7,7 +7,7 @@
       "api": "https://caiji.putaozy.net/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "探探资源",
@@ -16,7 +16,7 @@
       "api": "https://apittzy.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
      {
       "key": "搞起资源",
@@ -25,7 +25,7 @@
       "api": "https://caiji.gqjiexi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "KK资源网",
@@ -34,7 +34,7 @@
       "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "色猫资源",
@@ -43,7 +43,7 @@
       "api": "https://api.maozyapi.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "乐播",
@@ -61,7 +61,7 @@
       "api": "http://www.ggmmzy.com:9999/inc/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "shayu",
@@ -70,7 +70,7 @@
       "api": "https://shayuapi.com/api.php/Seacms/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "色屌丝",
