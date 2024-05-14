@@ -29,8 +29,8 @@
     },
 
 {
-      "key": "色猫资源",
-      "name": "色猫资源",
+      "key": "奥斯卡资源",
+      "name": "奥斯卡资源",
       "type": 1,
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
