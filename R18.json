@@ -37,7 +37,7 @@
       "api": "https://91md.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     
 {
