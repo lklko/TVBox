@@ -27,6 +27,35 @@
       "quickSearch": 1,
       "filterable": 0
     },
+{
+      "key": "森林资源",
+      "name": "森林资源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "森林小说资源",
+      "name": "森林小说资源",
+      "type": 1,
+      "api": "https://slapibf.com/api.php/provide/art/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+    
+    {
+      "key": "玉兔资源",
+      "name": "玉兔资源",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "KK资源网",
       "name": "KK资源网",
