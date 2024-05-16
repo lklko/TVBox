@@ -64,7 +64,7 @@
       "key": "tianmi资源",
       "name": "tianmi资源",
       "type": 1,
-      "api": "https://https://tianmiapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://tianmiapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
