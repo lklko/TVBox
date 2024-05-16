@@ -12,8 +12,8 @@
     {
       "key": "探探资源",
       "name": "探探资源",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+      "type": 1,
+      "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -29,7 +29,8 @@
       "filterable": 0
     },
     
-     {
+   
+    {
       "key": "搞起资源",
       "name": "搞起资源",
       "type": 1,
@@ -39,7 +40,27 @@
       "filterable": 0
     },
 
-   {
+  
+  
+    {
+      "key": "dd资源",
+      "name": "dd资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+     {
+      "key": "jkun资源",
+      "name": "jkun资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "tianmi资源",
       "name": "tianmi资源",
       "type": 1,
@@ -142,7 +163,7 @@
       "filterable": 0
     },
 
-    
+
 {
       "key": "森林资源",
       "name": "森林资源",
