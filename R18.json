@@ -60,9 +60,10 @@
       "quickSearch": 1,
       "filterable": 0
     },
+    
     {
-      "key": "tianmi资源",
-      "name": "tianmi资源",
+      "key": "tian资源",
+      "name": "tian资源",
       "type": 1,
       "api": "https://tianmiapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
