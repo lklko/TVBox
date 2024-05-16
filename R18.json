@@ -18,6 +18,17 @@
       "quickSearch": 1,
       "filterable": 0
     },
+
+     {
+      "key": "zhilian资源",
+      "name": "zhilian资源",
+      "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
      {
       "key": "搞起资源",
       "name": "搞起资源",
