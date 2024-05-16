@@ -62,9 +62,9 @@
     },
     
     {
-      "key": "tian资源",
-      "name": "tian资源",
-      "type": 0,
+      "key": "ti资源",
+      "name": "ti资源",
+      "type": 1,
       "api": "https://tianmiapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
