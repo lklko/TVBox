@@ -29,7 +29,27 @@
       "filterable": 0
     },
     
-   
+
+{
+      "key": "avre资源",
+      "name": "avre资源",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
+{
+      "key": "jingpin资源",
+      "name": "jingpin资源",
+      "type": 1,
+      "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
     {
       "key": "搞起资源",
       "name": "搞起资源",
