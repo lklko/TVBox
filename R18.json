@@ -33,8 +33,8 @@
 {
       "key": "avre资源",
       "name": "avre资源",
-      "type": 0,
-      "api": "https://www.avre06.com/api.php/provide/vod/?ac=list",
+      "type": 1,
+      "api": "https://www.avre06.com/api.php/Prodao/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -43,7 +43,7 @@
 {
       "key": "jingpin资源",
       "name": "jingpin资源",
-      "type": 0,
+      "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
