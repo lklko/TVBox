@@ -30,6 +30,16 @@
     },
     
 
+    {
+      "key": "hg资源",
+      "name": "hg资源",
+      "type": 1,
+      "api": "https://www.hgzy05.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    
 {
       "key": "avre资源",
       "name": "avre资源",
